@@ -1,0 +1,40 @@
+﻿@page "/"
+
+<PageTitle>Things To Do</PageTitle>
+
+<h1>Todo (@_Todos.Count(todo => !todo.IsDone))</h1>
+
+<ul>
+    @foreach (var todo in _Todos)
+    {
+        <li>
+            <input type="checkbox" @bind="todo.IsDone" />
+            <input @bind="todo.Title" />
+        </li>
+    }
+</ul>
+
+<input placeholder="Something todo" @bind="_NewTodo" />
+<button @onclick="AddToDo">Add todo</button>
+
+
+@code {
+    List<ToDoDto> _Todos { get; set; } = new();
+    string _NewTodo { get; set; } = string.Empty;
+
+    protected override void OnInitialized()
+    {
+        _NewTodo = "Fix iOS Xamarin Grpc";
+        AddToDo();
+    }
+
+    void AddToDo()
+    {
+        if (!string.IsNullOrWhiteSpace(_NewTodo))
+        {
+            _Todos.Add(new ToDoDto { Title = _NewTodo });
+            _NewTodo = string.Empty;
+        }                   
+    }
+}
+

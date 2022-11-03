@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Na+5yeL10n3WBs4h5RKiyU+Q3Zqt1Pht7LVRGFQbrstaVxH58woY7MNVk/KQy4XzNTrx2NA5K40oKGiXr+Kvyw==",
+  "success": true,
+  "projectFilePath": "E:\\Project Files\\VS-2022\\Practice\\Maui Practice\\Shared\\Maui.Shared\\Maui.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Santos R. Victorero\\.nuget\\packages\\google.protobuf\\3.21.7\\google.protobuf.3.21.7.nupkg.sha512",
+    "C:\\Users\\Santos R. Victorero\\.nuget\\packages\\grpc\\2.46.5\\grpc.2.46.5.nupkg.sha512",
+    "C:\\Users\\Santos R. Victorero\\.nuget\\packages\\grpc.core\\2.46.5\\grpc.core.2.46.5.nupkg.sha512",
+    "C:\\Users\\Santos R. Victorero\\.nuget\\packages\\grpc.core.api\\2.46.5\\grpc.core.api.2.46.5.nupkg.sha512",
+    "C:\\Users\\Santos R. Victorero\\.nuget\\packages\\grpc.tools\\2.49.1\\grpc.tools.2.49.1.nupkg.sha512",
+    "C:\\Users\\Santos R. Victorero\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

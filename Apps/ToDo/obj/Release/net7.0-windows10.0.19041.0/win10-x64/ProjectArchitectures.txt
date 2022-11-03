@@ -1,0 +1,1 @@
+E:\Project Files\VS-2022\Practice\Maui Practice\Apps\ToDo\ToDo.csproj;x64

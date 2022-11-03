@@ -1,0 +1,15 @@
+﻿syntax = "proto3";
+package todomanagement;
+
+import "google/protobuf/empty.proto";
+
+option csharp_namespace = "CBSI.Shared.v1.ToDoManagement";
+
+message ToDoDto{
+	string title = 1;
+	bool is_done = 2;
+}
+
+service ToDoService{
+    rpc Test (google.protobuf.Empty) returns (google.protobuf.Empty);
+}

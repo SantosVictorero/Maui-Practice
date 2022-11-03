@@ -1,0 +1,12 @@
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\bin\Release\net6.0\Maui.Shared.deps.json
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\bin\Release\net6.0\Maui.Shared.dll
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\bin\Release\net6.0\Maui.Shared.pdb
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\Maui.Shared.csproj.AssemblyReference.cache
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\Maui.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\Maui.Shared.AssemblyInfoInputs.cache
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\Maui.Shared.AssemblyInfo.cs
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\Maui.Shared.csproj.CoreCompileInputs.cache
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\Maui.Shared.dll
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\refint\Maui.Shared.dll
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\Maui.Shared.pdb
+E:\Project Files\VS-2022\Practice\Maui Practice\Shared\Maui.Shared\obj\Release\net6.0\ref\Maui.Shared.dll
